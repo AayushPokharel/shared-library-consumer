@@ -1,6 +1,6 @@
 // Import the library by the name you gave it in Step 2
 // The underscore (_) at the end is required! It loads everything.
-@Library('shared-library-trainer') _ # use share library name here
+@Library('shared-library-trainer') _ // use share library name here
 
 pipeline {
     agent any
